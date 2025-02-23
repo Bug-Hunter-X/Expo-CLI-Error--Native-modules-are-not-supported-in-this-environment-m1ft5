@@ -1,0 +1,1 @@
+This error typically occurs when you are using a library or module within your Expo project that has native dependencies which aren't compatible with the Expo managed workflow.  Expo Go and the Expo CLI primarily support JavaScript and doesn't directly support native modules that rely on platform-specific code (like Objective-C or Java).
